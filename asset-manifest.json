@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/site-glass/static/css/main.0bd2688c.css",
+    "main.js": "/site-glass/static/js/main.6ad3dedf.js",
+    "static/media/tropical.jpg": "/site-glass/static/media/tropical.91df69ea2f88cb19c244.jpg",
+    "index.html": "/site-glass/index.html",
+    "main.0bd2688c.css.map": "/site-glass/static/css/main.0bd2688c.css.map",
+    "main.6ad3dedf.js.map": "/site-glass/static/js/main.6ad3dedf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0bd2688c.css",
+    "static/js/main.6ad3dedf.js"
+  ]
+}

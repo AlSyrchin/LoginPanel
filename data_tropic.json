@@ -1,0 +1,116 @@
+{
+    "categories": [
+      { "name": "Все" },
+      { "name": "Фрукты" },
+      { "name": "Природа" },
+      { "name": "Животные" }
+    ],
+    "collections": [
+      {
+        "category": 1,
+        "name": "Pomegranate",
+        "price": 1400,
+        "text": "Pellentesque dignissim enim sit amet venenatis urna cursus eget nunc scelerisque.",
+        "photos": "https://sun9-6.userapi.com/sun9-46/impg/_uo_gdYRCK0cHDujFsBM1GUdye70gP-JOoLVOw/H9kb7H9MKM0.jpg?size=604x431&quality=96&sign=b1587670cd17e1d6f378af9382ec2f28&c_uniq_tag=Qabs3TYBt98HN9O3x6Ghf87RnKQyttVvpMxMI-bNDJs&type=album"
+
+      },
+      {
+        "category": 1,
+        "name": "Mango",
+        "price": 800,
+        "text": "Pulvinar elementum integer enim neque volutpat ac tincidunt vitae semper quis lectus.",
+        "photos": "https://static.punjabkesari.in/multimedia/2020_6image_13_16_5993929394.jpg"
+      },
+      {
+        "category": 1,
+        "name": "Bananas",
+        "price": 2000,
+        "text": "Amet consectetur adipiscing elit ut aliquam purus sit amet.",
+        "photos": "https://agrarii.com/wp-content/uploads/2019/07/globalnyy-rynok-organicheskih-bananov-2019-2023.jpeg"
+      },
+      {
+        "category": 1,
+        "name": "Watermelon",
+        "price": 6050,
+        "text": "Arcu dictum varius duis at consectetur lorem donec massa sapien faucibus et molestie.",
+        "photos": "https://agrarii.com/wp-content/uploads/2019/07/mozhno-li-pokupat-arbuzy-v-iyule-kak-vybrat-pravilnyy-arbuz.jpg"
+      },
+      {
+        "category": 1,
+        "name": "Lemons",
+        "price": 1805,
+        "text": "Est ante in nibh mauris cursus mattis molestie.",
+        "photos": "https://cdn.startupitalia.eu/wp-content/uploads/sites/12/2017/07/limone1.jpg"
+      },
+      {
+        "category": 2,
+        "name": "Boat",
+        "price": 99,
+        "text": "In mollis nunc sed id semper risus in hendrerit gravida.",
+        "photos":  "https://asiapacific.triple-e-awards.com/img/Kochi5.jpg"
+      },
+      {
+        "category": 2,
+        "name": "Hawaii",
+        "price": 120,
+        "text": "Enim nulla aliquet porttitor lacus luctus accumsan tortor posuere ac ut consequat semper viverra.",
+        "photos": "https://render.fineartamerica.com/images/rendered/default/greeting-card/images/artworkimages/medium/2/beautiful-sunset-over-the-sea-with-a-filip-fuxa.jpg?&targetx=-37&targety=0&imagewidth=774&imageheight=500&modelwidth=700&modelheight=500&backgroundcolor=4E3C19&orientation=0"
+      },
+      {
+        "category": 2,
+        "name": "Uninhabited island",
+        "price": 499,
+        "text": "Ipsum dolor sit amet consectetur.Sit amet justo donec enim diam.",
+        "photos": "https://i.pinimg.com/originals/9c/a7/3b/9ca73bac66d63feff2b3ac9f8f3c9e41.jpg"
+      },
+      {
+        "category": 2,
+        "name": "Rocks",
+        "price": 20,
+        "text": "Volutpat lacus laoreet non curabitur gravida arcu ac tortor dignissim.",
+        "photos": "https://ilikeviaggi.it/wp-content/uploads/2018/02/Thailandia-mare-2-1-1.jpg"
+      },
+      {
+        "category": 2,
+        "name": "Jungles",
+        "price": 90,
+        "text": "Tristique nulla aliquet enim tortor. Leo vel orci porta non pulvinar neque laoreet.",
+        "photos": "https://img1.liveinternet.ru/images/attach/d/1/139/559/139559199_1163.jpg"
+      },
+      {
+        "category": 3,
+        "name": "Zebra",
+        "price": 14800,
+        "text": "Phasellus egestas tellus rutrum tellus pellentesque eu. Mattis nunc sed blandit libero volutpat sed cras.",
+        "photos": "https://render.fineartamerica.com/images/rendered/default/greeting-card/images/artworkimages/medium/1/6-zebra-jackie-russo.jpg?&targetx=-50&targety=0&imagewidth=800&imageheight=500&modelwidth=700&modelheight=500&backgroundcolor=AF8E72&orientation=0"
+      },
+      {
+        "category": 3,
+        "name": "Tiger",
+        "price": 1800,
+        "text": "Augue neque gravida in fermentum et sollicitudin ac.",
+        "photos": "https://render.fineartamerica.com/images/rendered/default/greeting-card/images/artworkimages/medium/1/tiger-lily-jerry-lofaro.jpg?&targetx=0&targety=-64&imagewidth=700&imageheight=628&modelwidth=700&modelheight=500&backgroundcolor=4E713F&orientation=0"
+      },
+      {
+        "category": 3,
+        "name": "Giraffe",
+        "price": 9000,
+        "text": "Mi bibendum neque egestas congue quisque egestas. Volutpat est velit egestas dui.",
+        "photos": "https://www.tn8.tv/wp-content/uploads/2021/04/jirafa.jpg"
+      },
+      {
+        "category": 3,
+        "name": "Chameleon",
+        "price": 3300,
+        "text": "Velit sed ullamcorper morbi tincidunt. Nam aliquam sem et tortor consequat.",
+        "photos": "https://www.tn8.tv/wp-content/uploads/2021/04/nota-8.1_aCfCuU3.jpg"
+      },
+      {
+        "category": 3,
+        "name": "Parrots",
+        "price": 6800,
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "photos": "https://i.pinimg.com/originals/bd/91/86/bd91864af737d59ca13a40783681b3db.jpg"
+      }
+    ]
+  }
